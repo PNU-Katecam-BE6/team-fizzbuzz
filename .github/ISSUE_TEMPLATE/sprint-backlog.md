@@ -11,7 +11,7 @@ assignees: ''
 
 ## Tasks
 
-- [] Item
-- [] Item
+- [ ] Item
+- [ ] Item
 
 ## Reference
